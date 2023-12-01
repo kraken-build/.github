@@ -1,3 +1,4 @@
+<img src="https://github.com/kraken-build/.github/assets/1318438/7c9652a6-c244-45d7-b275-935f63939c1c" align="center">
 
 | Package | CI | PyPI |
 | ------- | -- | ---- |
